@@ -1,9 +1,7 @@
 @extends('layouts.base')
 
-@section('pageTitle','home')
+@section('pageTitle', 'Home page')
 
 @section('content')
-
-ciao
-    
+    Benvenuto sul sito della molisana
 @endsection
